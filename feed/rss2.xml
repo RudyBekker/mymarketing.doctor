@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:g-custom="http://base.google.com/cns/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>mmvp</title>
+    <link>http://www.mymarketing.doctor</link>
+    <description />
+    <atom:link href="http://www.mymarketing.doctor/feed/rss2" type="application/rss+xml" rel="self" />
+    <item>
+      <title>Wills &amp; Estates - Latest Updates</title>
+      <link>http://www.mymarketing.doctor/wills-estates-latest-updates</link>
+      <description />
+      <content:encoded>&lt;div&gt;&#xD;
+  &lt;img src="https://irp-cdn.multiscreensite.com/ce44f79d/dms3rep/multi/background_image_home-1920x1270.jpg"/&gt;&#xD;
+&lt;/div&gt;&#xD;
+&lt;div style="transition: none 0s ease 0s; display: block;" data-rss-type="text"&gt;&#xD;
+  
+                  
+         No one really wants to talk about their last will and testament, but this is one legal issue you don’t want to leave unattended. After all, it could lead to a major rift in your family, one which you are not around to mend.
+         
+                  &#xD;
+  &lt;div&gt;&#xD;
+    &lt;br/&gt;&#xD;
+  &lt;/div&gt;&#xD;
+  &lt;div&gt;&#xD;
+    
+                    
+          The importance of having a very clear will and testament takes on even greater magnitude if you have children from more than one marriage, if you have adopted children, and if you don’t have any children at all. Getting expert advice can save your loved ones heartache and grief at a time when they really need to focus on grieving and recovery.
+         
+                  &#xD;
+  &lt;/div&gt;&#xD;
+&lt;/div&gt;</content:encoded>
+      <pubDate>Tue, 12 Mar 2019 14:53:24 GMT</pubDate>
+      <author>rudy@optimizedgroup.io (Rudy Bekker)</author>
+      <guid>http://www.mymarketing.doctor/wills-estates-latest-updates</guid>
+      <g-custom:tags type="string" />
+      <media:content medium="image" url="https://irp-cdn.multiscreensite.com/ce44f79d/dms3rep/multi/background_image_home-1920x1270.jpg" />
+    </item>
+  </channel>
+</rss>
